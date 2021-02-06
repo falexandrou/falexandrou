@@ -6,7 +6,6 @@
 - 📫 &nbsp;&nbsp;How to reach me: [https://www.falexandrou.com/contact/](https://www.falexandrou.com/contact/)
 - ⚡&nbsp;&nbsp;I'm also on [Scalable path](https://www.scalablepath.com) and [Pilot](https://pilot.co/)
 
-
 ### Recent Blog Posts
 
   * [How to prepare your web application for the cloud](https://www.falexandrou.com/2021/02/06/how-to-prepare-your-web-application-for-the-cloud/)
