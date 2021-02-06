@@ -4,4 +4,5 @@
 - 💬 &nbsp;&nbsp;Ask me about the JavaScript, Python, Ansible, AWS, Docker, Git
 - 💼 &nbsp;&nbsp;Selected work can be found here: [https://www.falexandrou.com/work/](https://www.falexandrou.com/work/)
 - 📫 &nbsp;&nbsp;How to reach me: [https://www.falexandrou.com/contact/](https://www.falexandrou.com/contact/)
+- ⚡&nbsp;&nbsp;I'm also on [Scalable path](https://www.scalablepath.com) and [Pilot](https://pilot.co/)
 
