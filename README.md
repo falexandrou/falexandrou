@@ -1,10 +1,9 @@
-### Hi there, I’m Fotis and I make web applications 👋
+### Hi there, I’m Fotis and I'm a Senior Software Engineer 👋
 
-- 🔭 &nbsp;&nbsp;I’m currently working as a contractor for [Talentdesk.io](https://talentdesk.io) as a principal developer and building [Stackmate](https://stackmate.io) as an indie hacker
-- 💬 &nbsp;&nbsp;Ask me about the JavaScript, Python, Ansible, AWS, Docker, Git
+- 🔭 &nbsp;&nbsp;You can connect with me on LinkedIn, my profile is: [https://www.linkedin.com/in/falexandrou](https://www.linkedin.com/in/falexandrou)
+- 💬 &nbsp;&nbsp;Ask me about Node.js, JavaScript, Python, Ansible, AWS, Docker, Terraform, Git
 - 💼 &nbsp;&nbsp;Selected work can be found here: [https://www.falexandrou.com/work/](https://www.falexandrou.com/work/)
 - 📫 &nbsp;&nbsp;How to reach me: [https://www.falexandrou.com/contact/](https://www.falexandrou.com/contact/)
-- ⚡&nbsp;&nbsp;I'm also on [Scalable path](https://www.scalablepath.com) and [Pilot](https://pilot.co/)
 
 ### Recent Blog Posts
 
