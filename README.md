@@ -3,10 +3,10 @@
 I'm well versed in **Node.js**, **TypeScript**, **Python**, **Ansible**, **AWS**, **Docker**, **Terraform**, **Git** and have been building web applications and APIs for nearly a couple of decades now
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/falexandrou) and you can visit my personal [website and blog](https://www.falexandrou.dev/)
-<ul>
-   <li><a href="https://falexandrou.dev/posts/2011-09-22-how-github-uses-github-to-build-github">How GitHub Uses GitHub to Build GitHub</a></li>
-   <li><a href="https://falexandrou.dev/posts/2013-06-17-joomla-day-hacking-your-productivity">Hacking the way you work: My keynote on JoomlaDay 2013</a></li>
-   <li><a href="https://falexandrou.dev/posts/2014-02-13-vagrant-apache-or-nginx-serving-corrupt-javascript-and-css-files">Vagrant Apache or nginx serving corrupt Javascript and CSS files</a></li>
-   <li><a href="https://falexandrou.dev/posts/2014-03-25-display-pdf-in-page-without-a-javascript-plugin">Display PDF in-page without a javascript plugin</a></li>
-   <li><a href="https://falexandrou.dev/posts/2014-10-26-switching-to-github-pages">Switching to Jekyll GitHub pages</a></li>
+<hr><h3>Latest Posts</h3><ul>
+   <li><a href="https://falexandrou.dev/posts/2021-02-06-how-to-prepare-your-web-application-for-the-cloud">How to prepare your web application for the cloud</a></li>
+   <li><a href="https://falexandrou.dev/posts/2021-01-26-choosing-the-stack-for-a-new-project">What to consider when choosing a new tech stack</a></li>
+   <li><a href="https://falexandrou.dev/posts/2020-12-20-testing-your-code">Testing your code is not optional.</a></li>
+   <li><a href="https://falexandrou.dev/posts/2020-05-30-sectigo-expired-root-certificates">How to fix Sectigo's expired root certificates</a></li>
+   <li><a href="https://falexandrou.dev/posts/2019-03-10-react_on_rails_jsx_layout">Using a React Component as a Layout with ReactOnRails</a></li>
 </ul>
