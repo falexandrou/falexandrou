@@ -1,4 +1,4 @@
-### Hi there, I’m Fotis and I'm a Senior Software Engineer 👋
+### Hi there, I’m Fotis and I'm a Software Engineer 👋
 
 I'm well versed in **Node.js**, **TypeScript**, **Python**, **Ansible**, **AWS**, **Docker**, **Terraform**, **Git** and have been building web applications and APIs for nearly a couple of decades now
 
